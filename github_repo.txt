@@ -1,0 +1,2 @@
+GitHub Repository URL (HTTPS): https://github.com/verdyaa/Pemweb-JS
+GitHub Repository URL (SSH):   git@github.com:verdyaa/Pemweb-JS.git
